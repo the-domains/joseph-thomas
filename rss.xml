@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Joseph Thomas]]></title>
-        <description><![CDATA[Joseph Thomas]]></description>
+        <title><![CDATA[Power. Knowledge. Subjectivity. ]]></title>
+        <description><![CDATA[Power. Knowledge. Subjectivity. ]]></description>
         <link>https://thegrid.ai/joseph-thomas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 18:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 18:59:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/joseph-thomas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Panopticon]]></title>
-            <description><![CDATA[<article><h1>The Panopticon</h1><p>The Panopticon was designed by English philosopher and social theorist Jeremy Bentham. Inmates could be watched by a single guard shrouded in a central guard tower. The inmates couldn't know when they were or weren't being watched, so</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/809c2f87ee0221b73a2f3674a7d9b7cf/croprotate.png?cropheight=779&cropwidth=1364&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F54ceb74f-e994-4412-ac65-0e3b945fe85d.png&x=0&y=0"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bd469f6-ce93-4a7c-8628-b2000b900849.png">]]></description>
             <link>https://thegrid.ai/joseph-thomas/db2d0282-fa7b-41f3-b52a-e3b1754e649d/index.html</link>
             <guid isPermaLink="false">db2d0282-fa7b-41f3-b52a-e3b1754e649d</guid>
-            <pubDate>Sat, 23 Jul 2016 18:35:33 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2016 18:59:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
