@@ -1,7 +1,7 @@
 name: Joseph Thomas
 favicon: null
-layout_spectrum: 0.09236663044430315
-typography_spectrum: 0.43995849951170385
+layout_spectrum: 0.0907
+typography_spectrum: 0.3831
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.4440880208276212
-  lightness: 0.8210214045830071
-  saturation: 0.011882330756634474
-  rhythmicContrast: 0.2661099056713283
+    - '#010101'
+    - '#fefdfe'
+    - '#393836'
+    - '#8d8b7e'
+    - '#cad5de'
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
