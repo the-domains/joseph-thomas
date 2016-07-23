@@ -1,6 +1,6 @@
 name: Joseph Thomas
 favicon: null
-layout_spectrum: 0.0907
+layout_spectrum: 1
 typography_spectrum: 0.3831
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#393836'
     - '#8d8b7e'
     - '#cad5de'
-  brandStrength: 0.25
-  lightness: 0.3125
-  saturation: 0.3125
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
